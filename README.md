@@ -3,6 +3,7 @@ Haciendo uso del repositorio de <a href="https://github.com/AliaksandrSiarohin/f
 
 🖼 Ejemplo de salida
 
+![alana-putin](https://github.com/alanaolivieri/Deepfake/assets/97708382)
 
 
 🔬 DEMOSTRACIÓN DE COLAB
